@@ -33,6 +33,7 @@ Good communication, attention to detail, time management, adaptability, problem-
   <img alt="Mac OS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </span>
+
 ### ⚡ FrontEnd
 <span>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
